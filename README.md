@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
 # 💫 About Me:
 I'm currently learning Python;<br>I am interested in Linguistics;<br>I love computers and languages!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrzad1818) 
@@ -17,6 +15,3 @@ I'm currently learning Python;<br>I am interested in Linguistics;<br>I love comp
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mehrzad1818&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
