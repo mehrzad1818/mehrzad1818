@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently learning Python;<br>I am interested in Linguistics;<br>I love computers and languages!
+I'm currently learning Python;<br>I am interested in Linguistics.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrzad1818) 
