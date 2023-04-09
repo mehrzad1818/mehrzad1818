@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 # 💫 About Me:
 I'm currently learning Python;<br>I am interested in Linguistics.
@@ -15,3 +15,4 @@ I'm currently learning Python;<br>I am interested in Linguistics.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mehrzad1818&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+ -->
