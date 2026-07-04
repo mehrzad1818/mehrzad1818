@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently learning Python;<br>I am interested in Linguistics.
+Hey there,
+I'm a Linguistics student researching in low-resource NLP.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrzad1818) 
